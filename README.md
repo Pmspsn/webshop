@@ -1,5 +1,5 @@
 #Note
- Tải projects lưu vào htdocs xampp
+ Tải projects lưu vào xampp/htdocs
  
  Tạo csdl shop_db trên phpadmin 
  
