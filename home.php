@@ -48,7 +48,7 @@ include 'components/wishlist_cart.php';
             <img src="images/home-img-1.png" alt="">
          </div>
          <div class="content">
-            <span>upto 50% off</span>
+            <span>Iphone 14</span>
             <h3>Mẫu điện thoại đời mới!</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
@@ -59,7 +59,7 @@ include 'components/wishlist_cart.php';
             <img src="images/home-img-2.png" alt="">
          </div>
          <div class="content">
-            <span>upto 50% off</span>
+            <span>Apple watch</span>
             <h3>Đồng hồ cao cấp</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
@@ -70,7 +70,7 @@ include 'components/wishlist_cart.php';
             <img src="images/home-img-3.png" alt="">
          </div>
          <div class="content">
-            <span>upto 50% off</span>
+            <span>Tai nghe</span>
             <h3>Tai nghe hiện đại</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>

@@ -67,7 +67,7 @@ if(isset($_POST['send'])){
       <input type="email" name="email" placeholder="email" required maxlength="50" class="box">
       <input type="number" name="number" min="0" max="9999999999" placeholder="số điện thoại" required onkeypress="if(this.value.length == 10) return false;" class="box">
       <textarea name="msg" class="box" placeholder="yêu cầu liên hệ" cols="30" rows="10"></textarea>
-      <input type="submit" value="send message" name="send" class="btn">
+      <input type="submit" value="GỬI" name="send" class="btn">
    </form>
 
 </section>

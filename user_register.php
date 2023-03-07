@@ -65,7 +65,7 @@ if(isset($_POST['submit'])){
    <form action="" method="post">
       <h3>register now</h3>
       <input type="text" name="name" required placeholder="Tên Tài Khoản" maxlength="20"  class="box">
-      <input type="email" name="email" required placeholder="Email" maxlength="50"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
+      <input type="email" name="email" required placeholder="Email" maxlength="5500"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
       <input type="password" name="pass" required placeholder="Mật Khẩu" maxlength="20"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
       <input type="password" name="cpass" required placeholder="Nhập Lại Mật Khẩu" maxlength="20"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
       <input type="submit" value="Đăng kí" class="btn" name="submit">
